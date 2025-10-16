@@ -24,9 +24,3 @@ Technologies Used:
 •	Java Swing: GUI development (JFrame, JPanel, JComboBox, JTextField, JButton, JLabel).
 •	AWT Graphics: Drawing dynamic CO₂ contribution charts.
 
-Learning Outcome:
-•	Understanding of Round Robin CPU scheduling algorithm.
-•	Hands-on experience with Java Swing for GUI development.
-•	Practical implementation of queues, loops, and dynamic visualization.
-•	Ability to translate theoretical OS scheduling concepts into an interactive software tool.
-
